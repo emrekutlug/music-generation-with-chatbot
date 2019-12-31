@@ -1,7 +1,7 @@
 # Generate-Music-with-Chatbot
 This repository contains the Jupyter Notebook and necessary Watson Assistant and Node-RED JSON files in order to create the overall experience.
 
-Steps
+Our Steps
 
   1. Please insert your own cos credentials inside Jupyter Notebook.
   2. Run all cells. This might take a while.
